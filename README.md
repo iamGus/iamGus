@@ -1,6 +1,6 @@
 ### Hi I am Gus 👋
 
-I am a aassionate, experienced Cardiff based iOS developer. Years of UIKit / MVVM experience. Current focus is on SwiftUI production apps. Love anything to do with Apple and anything space related!
+I'm a passionate, experienced Cardiff based iOS developer. Years of UIKit / MVVM experience. Current focus is on SwiftUI production apps. Love anything to do with Apple and anything space related!
 
 Technologies I am currently focusing on (love exploring new tech!):
 - SwiftUI
