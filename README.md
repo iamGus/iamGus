@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi I am Gus 👋
+
+I am a aassionate, experienced Cardiff based iOS developer. Years of UIKit / MVVM experience. Current focus is on SwiftUI production apps. Love anything to do with Apple and anything space related!
+
+Technologies I am currently focusing on (love exploring new tech!):
+- SwiftUI
+- The Composable Architecture (TCA, for short) design pattern
+- Async await
+- Combine
+- Splitting features into packages
+- Snapshot testing
 
 <!--
 **iamGus/iamGus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
